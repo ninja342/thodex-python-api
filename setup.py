@@ -12,7 +12,7 @@ setup(
     python_requires=">=3.0",
     install_requires=[
         "requests",
-        "websocket",
+        "websocket-client",
     ],
     classifiers=[
         "Development Status :: 3 - Alpha",
